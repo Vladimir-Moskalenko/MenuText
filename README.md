@@ -1,6 +1,8 @@
 # MenuText
 __________________
 A note-taking app for macOS menubar
+Tested on:
+* macOS Catalina (10.15)
 __________________
 FEATURES:
 1. Cut|Copy|Paste
